@@ -15,4 +15,4 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 3. Once bash is opened it will look like the following
 ![Image](Git2.png)
 4. Next type in the following, replacing the zz with the letters in your course specific account
-'$ ssh cs15lwi23zz@ieng6.ucsd.edu'
+`$ ssh cs15lwi23zz@ieng6.ucsd.edu`
