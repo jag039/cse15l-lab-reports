@@ -25,3 +25,10 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 ![Image](Git3.png)
 ---
 ## Trying Some Commands
+**Useful Comands**
+- pwd (Present working directory)
+- cd (Change Directory)
+- ls (list directories)
+- mkdir (Creates a directory or subdirectory)
+- cp (copys files)
+- 
