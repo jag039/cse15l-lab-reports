@@ -19,3 +19,9 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 ![Image](Git2.png)
 4. Next type in the following, replacing the zz with the letters in your course specific account.
 `$ ssh cs15lwi23zz@ieng6.ucsd.edu`
+5. You will be prompted with a yes/no question. It is okay to type yes and press enter the first time you log into a server. However if you get a message like this when logging into a server you log into often then that could mean someone may be hacking your server account.
+6. Enter your password
+7. You are now logged into the server. It will look like the following.
+![Image](Git3.png)
+---
+## Trying Some Commands
