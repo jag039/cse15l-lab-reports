@@ -9,6 +9,7 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 ![Image](VScode2.png)
 3. Complete VScode set up.
 ---
+
 ## Remotely Connecting
 **This is a tutorial on how to remotely log into a course-specific account on ieng6**
 1. In order to begin remotely connect to a server git has to be installed. If on a mac, git does not have to be installed.
