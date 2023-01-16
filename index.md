@@ -22,7 +22,6 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 6. Enter your password
 7. You are now logged into the server. It will look like the following.
 ![Image](Git3.png)
----
 ## Trying Some Commands
 **Useful Comands**
 - pwd (Present working directory)
