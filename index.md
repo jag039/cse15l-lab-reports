@@ -8,6 +8,7 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 2. After entering the Vscode website, click the download button in the top right corner. Then Begin installing the VScode software that is apporoate for the device being used
 ![Image](VScode2.png)
 3. Complete VScode set up.
+![Image](VScode3.png)
 ## Remotely Connecting
 **This is a tutorial on how to remotely log into a course-specific account on ieng6**
 1. In order to begin remotely connect to a server git has to be installed. If on a mac, git does not have to be installed.
