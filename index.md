@@ -7,7 +7,7 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 ![Image](VScode1.png)
 2. After entering the Vscode website, click the download button in the top right corner. Then Begin installing the VScode software that is apporoate for the device being used
 ![Image](VScode2.png)
-3. Complete VScode set up.
+3. Complete VScode set up. It is reccomended you complete VScode set up.
 ![Image](VScode3.png)
 ## Remotely Connecting
 **This is a tutorial on how to remotely log into a course-specific account on ieng6**
@@ -25,12 +25,12 @@ Jesus Gonzalez - CSE 15L - A17425808 - Jan 15, 2023
 ![Image](Git3.png)
 ## Trying Some Commands
 **Useful Comands**
-* pwd (Present working directory)
+* `pwd` (Present working directory)
 ![Image](Commands3.png)
-* cd (Change Directory)
-* ls (list directories)
+* `cd` (Change Directory)
+* `ls` (list directories)
 ![Image](Commands1.png)
 ![Image](Commands2.png)
-* mkdir (Creates a directory or subdirectory)
-* cp (copys files)
+* `mkdir` (Creates a directory or subdirectory)
+* `cp` (copys files)
 ![Image](Commands4.png)
